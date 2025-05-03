@@ -3,6 +3,6 @@ __pycache__/
 /config.py
 .idea/
 include/
-bin/
+**/bin/*
 .DS_Store
 lib/
